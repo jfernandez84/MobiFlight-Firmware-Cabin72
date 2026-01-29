@@ -1,0 +1,6 @@
+{
+    "Type": "CABIN72_AFCS_DEVICE",
+    "Label": "AFCS ATR42/72-600",
+    "MaxCount": 1,
+    "MobiFlightType": "Cabin72_AFCS_Mega_Board"
+  }

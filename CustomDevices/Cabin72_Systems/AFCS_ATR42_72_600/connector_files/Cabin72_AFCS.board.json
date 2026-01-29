@@ -1,0 +1,6 @@
+{
+    "FirmwareBaseName": "Cabin72_AFCS_Mega",
+    "FriendlyName": "Cabin72 Systems - AFCS ATR42/72-600",
+    "MobiFlightType": "Cabin72_AFCS_Mega_Board",
+    "CustomDeviceType": [ "CABIN72_AFCS_DEVICE" ]
+  }
